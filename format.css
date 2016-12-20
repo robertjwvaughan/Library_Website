@@ -1,0 +1,121 @@
+body
+{
+	font-family: "Veranda", Sans-serif;
+	margin-right: 0px;
+	margin-left: 0px;
+	background-color: white;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+#menuText
+{
+	color: #0168B4;
+	text-decoration: none;
+}
+
+#red
+{
+	color: red;
+}
+
+#redcenter
+{
+	color: red;
+	text-align: center;
+}
+
+#blueText
+{
+	color: #0168B4;
+}
+
+#center
+{
+	text-align: center;
+}
+
+#image
+{
+	width: 25%;
+	height: 250px;
+}
+
+#bluecenter
+{
+	text-align: center;
+	border-style: dotted;
+	border-color: #0168B4;
+	border-style: solid;
+	border-width: 1px;
+}
+
+div.header
+{
+	height: 100px;
+    width: 100%;
+    background-color: #0168B4;
+	line-height: 100px;
+	margin: 0;
+	text-align: center;
+	font-size: 75px;
+	color: white;
+	padding: 0px;
+}
+
+#submit
+{
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	width: 173px;
+	height: 20px;
+	border: none;
+	margin: 0;
+	background: #0168B4; 
+	text-align: center;
+}
+
+div.main
+{
+	background: #FFFFFF;
+	width: 100%;
+	text-decoration: none;
+}//end default
+
+.tabletext
+{
+	border: 1px solid #0168B4;
+	width: 100%;
+}
+
+#nexttext
+{
+	text-align: center;
+	border: 1px solid #0168B4;
+	width: 80%;
+	margin-left:auto; 
+    margin-right:auto;
+}
+
+#centerblue
+{
+	color: #0168B4;
+	text-align: center;
+}
+
+#footer
+{
+	text-align: center;
+	position: fixed;
+	bottom: 0px;
+	width :100%;
+	background: #0168B4;
+	color: #FFFFFF;
+}
+
+#horizontal
+{
+    border-bottom: 1px solid #0168B4;
+}
